@@ -1,5 +1,5 @@
 /*
-Name: Donovan Troshynski
+Name:
 Assignment #: 4
 Instructor: Raj Dasgupta
 Due Date: 28 April 2016 @ 11:59 PM
